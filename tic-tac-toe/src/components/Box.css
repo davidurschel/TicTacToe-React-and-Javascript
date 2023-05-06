@@ -1,0 +1,35 @@
+.box {
+    background-color: white;
+    border: none;
+    border-radius: 10%;
+    box-shadow: 0px 0px 8px #888;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 5em;
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 5rem;
+    margin: 0.5rem;
+}
+
+.x {
+    color: rgb(241, 5, 5)
+}
+
+.o{
+    color:rgb(40, 40, 234)
+}
+
+.box:hover {
+    box-shadow: 0px 0px 15px #888;
+}
+
+.gameOver:hover{
+    box-shadow: 0px 0px 15px #ffffff;
+}
+
+.gameOver{
+    background-color: #d3d3d3;
+    box-shadow: 0px 0px 8px #ffffff;
+}

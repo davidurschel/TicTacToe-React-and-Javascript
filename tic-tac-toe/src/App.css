@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box
+}
+
+body {
+  margin: 0;
+  background-color: #efefef;
+  font-family: sans-serif;
+}
+
+.win-text{
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  font-size: large;
+  background-color: rgb(194, 194, 194);
+}

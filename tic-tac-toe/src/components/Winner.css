@@ -1,0 +1,14 @@
+.winner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 16rem;
+    height: 3rem;
+    font-size: 1.5em;
+    background-color: white;
+    margin: 0rem auto;
+    box-shadow: 0px 0px 8px #888;
+    border-radius: 1rem;
+    font-weight: bold;
+}

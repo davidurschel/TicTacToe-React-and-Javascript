@@ -1,0 +1,6 @@
+.ButtonBoard{
+    display: grid;
+    grid-template-columns: repeat(2, 15rem);
+    place-items: center;
+    justify-content: center;
+}
