@@ -11,6 +11,8 @@
   Uses localStorage to store the running score count as well as the current game state so when the application is closed and reopened the previous state will be remembered
 
 ## Running Instructions
+  - Clone the Repositiory from Github into a local Folder
   - Ensure Node.js is installed on your machine https://nodejs.org/en
   - Navigate into the /tic-tac-toe/ folder in the terminal
+  - To obtain nesecarry node modules run the command npm -i
   - Run the command npm start
