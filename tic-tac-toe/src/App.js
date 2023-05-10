@@ -95,8 +95,7 @@ function App() {
         setScores({...scores, xScore})
         setWinText("The winner is X")
       }
-    }
-    if(!updatedBoard.includes(null)){
+    }else if(!updatedBoard.includes(null)){
       setGameOver(true);
       setWinText("The game is a Draw")
     }
